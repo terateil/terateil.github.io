@@ -2,8 +2,12 @@
 main:
   - title: "About"
     url: https://5eonukkim.github.io/
-  - title: "Naver"
-    url: https://www.naver.com/
+  - title: "CV"
+    url: /cv/
+  - title: "Post"
+    url: /post/
+  - title: "Project"
+    url: /project/
   - title: "Sitemap"
     url: /sitemap/
   # - title: "About"
