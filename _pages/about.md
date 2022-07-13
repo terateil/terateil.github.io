@@ -1,13 +1,13 @@
 ---
 layout: single
-permalink: /about/
+permalink: /
 title: About
 author_profile: true
 classes: wide
 date: 2022/07/13
 ---
 
-<figure style="width: 30%" class="align-right">
+<figure style="width: 100%" class="align-center">
   <img src="/assets/images/about20220713.jpg" alt="">
 </figure>
 
