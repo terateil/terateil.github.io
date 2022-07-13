@@ -4,7 +4,7 @@ permalink: /
 title: About
 author_profile: true
 classes: wide
-date: 2022/07/13
+date: 2022-07-13
 ---
 
 <figure style="width: 100%" class="align-center">
