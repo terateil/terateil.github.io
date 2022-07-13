@@ -1,11 +1,12 @@
 ---
 layout: single
 permalink: /
-title: Hello, I'm Seonuk Kim!
+#title: Hello, I'm Seonuk Kim!
 author_profile: true
 classes: wide
 #date: 2022-07-13
 ---
+### Hello, I'm Seonuk Kim!
 ### I'm traveling to find ways to create manga & webtoon easier and better with AI!
 
 <figure style="width: 80%" class="align-center">
@@ -13,6 +14,7 @@ classes: wide
 </figure>
 
 ### About me
-I'm an undergraduate student at **Ulsan National Institute of Science and Technology (UNIST)**, majoring in ***Industrial Engineering*** and double majoring in ***Design***. I'm an undergraduate intern in [Expressive Computing Laboratory, UNIST]. I love **manga & webtoon**. So, I'm interested in **AI + X**, which is related to creative support tools for these works' support. I dream of an era where anyone can create content more easily using AI and freely turn their imaginations into reality.
+I'm an undergraduate student at **Ulsan National Institute of Science and Technology (UNIST)**, majoring in ***Industrial Engineering*** and double majoring in ***Design***. I'm an undergraduate intern in [Expressive Computing Laboratory, UNIST]. 
+I love **manga & webtoon**. So, I'm interested in **AI + X**, which is related to creative support tools for these works' support. I dream of an era where anyone can create content more easily using AI and freely turn their imaginations into reality.
 
 [Expressive Computing Laboratory, UNIST]: https://www.klee141.com/
