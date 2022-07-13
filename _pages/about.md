@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 classes: wide
 ---
-<figure style="width: 80%" class="align-center">
+<figure style="width: 90%" class="align-center">
   <img src="/assets/images/about20220713.jpg" alt="">
 </figure>
 
