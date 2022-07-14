@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: 
 permalink: /
+title: 
 author_profile: true
 classes: wide
 ---
