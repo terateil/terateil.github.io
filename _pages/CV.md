@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 * Ulsan National Institute of Science and Technology <sup>03/2020 - Present</sup>
-  * B.Sc. Candidate in Industrial Engineering and Design<br><br>
+  * B.Sc. Candidate in *[Industrial Engineering](https://ie.unist.ac.kr/eng/)* and *[Design](https://design.unist.ac.kr/)*<br><br>
 
 Research Experience
 ======
