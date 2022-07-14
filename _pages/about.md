@@ -9,6 +9,4 @@ classes: wide
   <img src="/assets/images/about20220713.jpg" alt="">
 </figure>
 
-I'm an undergraduate student majoring in *[Industrial Engineering](https://ie.unist.ac.kr/eng/)* and *[Design](https://design.unist.ac.kr/)* at **[Ulsan National Institute of Science and Technology (UNIST)](https://www.unist.ac.kr/)**. I'm an undergraduate intern at [Expressive Computing Laboratory, UNIST]. I love **manga & webtoon** and study **AI+X**, which is related to creative support tools for these works' support.
-
-[Expressive Computing Laboratory, UNIST]: https://www.klee141.com/
+I'm an undergraduate student majoring in *[Industrial Engineering](https://ie.unist.ac.kr/eng/)* and *[Design](https://design.unist.ac.kr/)* at **[Ulsan National Institute of Science and Technology (UNIST)](https://www.unist.ac.kr/)**. Also, I'm an undergraduate intern at [Expressive Computing Lab, UNIST](https://www.klee141.com/). I love **manga & webtoon** and study **AI+X**, which is related to creative support tools for these works' support.
