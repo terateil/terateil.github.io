@@ -7,8 +7,8 @@ classes: wide
 redirect_from:
   - /resume
 ---
-<a href="#" class="btn--primary">Success Button</a>
-[Download Resume](#){: .btn .btn--primary }
+<div align="right"><a href="/_pages/SEONUK_Resume_20220613.pdf" class="btn--primary"></a>
+[Download Resume](/_pages/SEONUK_Resume_20220613.pdf){: .btn .btn--primary }</div>
 
 Education
 ======
