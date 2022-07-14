@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 classes: wide
 ---
-## About me
+# About me
 
 <figure style="width: 85%" class="align-center">
   <img src="/assets/images/about20220713.jpg" alt="">
