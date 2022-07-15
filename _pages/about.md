@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: About me
+title: Seonuk Kim | AI + Manga & Webtoon
 author_profile: true
 classes: wide
 ---
