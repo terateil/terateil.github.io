@@ -5,7 +5,7 @@ title:
 author_profile: true
 classes: wide
 ---
-<span style=" font: bold 1.5em Cambria;">
+<span style=" font: bold 2em Cambria;">
   Seonuk Kim | AI + Comics
 </span>
 <figure style="width: 85%" class="align-center">
