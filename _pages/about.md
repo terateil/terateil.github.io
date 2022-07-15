@@ -5,8 +5,9 @@ title:
 author_profile: true
 classes: wide
 ---
-<br>  
-## Seonuk Kim | AI + Manga & Webtoon
+<span style=" font: bold 3em Cambria;">
+  Seonuk Kim | AI + Manga & Webtoon
+</span>
 <figure style="width: 85%" class="align-center">
   <img src="/assets/images/about20220713.jpg" alt="">
 </figure>
