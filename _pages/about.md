@@ -1,10 +1,11 @@
 ---
 layout: single
 permalink: /
-title: Seonuk Kim | AI + Manga & Webtoon
+title: 
 author_profile: true
 classes: wide
 ---
+## Seonuk Kim | AI + Manga & Webtoon
 <figure style="width: 85%" class="align-center">
   <img src="/assets/images/about20220713.jpg" alt="">
 </figure>
