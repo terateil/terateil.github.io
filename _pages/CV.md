@@ -46,13 +46,13 @@ Awards
 * *Special Prize*, Uni-CODE, 2020
   * UNIST Algorithm Programming Contest hosted by *UNIST CSE Department*
 * *Excellent Prize*, Campus Patent Universiade, 2020
-  * Patent and marketing idea contest hosted *Korean Intellectual Property Office (KIPO)*, *Samsung Electronics* [[article](http://news.unist.ac.kr/a-team-of-unist-students-honored-at-the-2020-campus-patent-universiade-competition/)] 
+  * Patent and marketing idea contest hosted *Korean Intellectual Property Office (KIPO)*, *Samsung Electronics* [[article](http://news.unist.ac.kr/a-team-of-unist-students-honored-at-the-2020-campus-patent-universiade-competition/)]<br><br>
 
 Teaching
 ======
 * Ulju The Dream Campus Mentoring Program
   * Head Mentor, HeXA, *Basic Python and Algorithm Programming*, 2022
-  * Head Mentor, UNITS, *Let's Build Robot Arm using Arduino and 3D Printer*, 2021
+  * Head Mentor, UNITS, *Let's Build Robot Arm using Arduino and 3D Printer*, 2021<br><br>
   
 Book
 ======
