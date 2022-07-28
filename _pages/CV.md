@@ -7,8 +7,12 @@ classes: wide
 redirect_from:
   - /resume
 ---
-<a href="/_pages/SEONUK_Resume_20220613.pdf" class="btn--primary"></a>
-[Download Resume](/_pages/SEONUK_Resume_20220613.pdf){: .btn .btn--primary }
+<a href="notion" class="btn--primary"></a>
+[Notion (KR)](https://5eonukkim.notion.site/){: .btn .btn--primary }
+<a href="CV" class="btn--primary"></a>
+[Full CV (EN, Comming Soon)](#){: .btn .btn--primary }
+<a href="notion" class="btn--primary"></a>
+[1-page Resume (EN, Comming Soon)](#){: .btn .btn--primary }
 
 Education
 ======
@@ -25,8 +29,31 @@ Research Experience
 
 Publication
 ======
-* **김선욱**, 이경호. (2022). 만화 제작 과정의 노동집약적 선화작업 효율화를 위한 AI의 창의적 이용에 관한 연구. 한국디자인학회 학술발표대회 논문집, 278-279. [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11073042)]<br><br>
+* **Seonuk Kim,** Kyungho Lee. (2022). A Study on the Use of AI as
+Creative Support Tool for Line Drawing in Manga Production.
+*KSDS Conference Proceeding*, 278-279. [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11073042)]<br><br>
 
+Awards
+======
+* *Encouragement Prize*, 2022 Spring DSUS, 2022
+  * Design Seminar on University Students hosted by *Korea Society of Design Studies (KSDS)*
+* *Excellent Prize*, IEEE Quiz Contest KOREA, 2022
+  * Undergraduate Quiz Contest using IEEE Xplore hosted by *IEEE*, *KITIS*
+* *Silver Prize*, UNIST-POSTECH-KAIST Data Science Competition, 2021
+  * Data science competition aimed to predict shale gas production and make purchase decisions hosted by *UNIST*, *POSTECH*, *KAIST*, *SK Innovation*, *kakao enterprise*, *Korea National Oil Corporation* [[article](http://news.unist.ac.kr/successful-completion-of-2021-unist-postech-kaist-data-science-competition/)]
+* *Gold Prize*, Lee Soo Hyun 20th Anniversary Book Review Contest, 2021
+  * Essay contest to commemorate Lee Soo Hyun, who passed away while trying to save a passenger from a subway accident hosted by *Consulate‑General of Japan in Busan*. His spirit improved the South Korea-Japan relations [[article:2001](https://www.donga.com/en/article/all/20011231/210363/1)] [[article:2021](https://www.donga.com/en/article/all/20210125/2393536/1)]
+* *Special Prize*, Uni-CODE, 2020
+  * UNIST Algorithm Programming Contest hosted by *UNIST CSE Department*
+* *Excellent Prize*, Campus Patent Universiade, 2020
+  * Patent and marketing idea contest hosted *Korean Intellectual Property Office (KIPO)*, *Samsung Electronics* [[article](http://news.unist.ac.kr/a-team-of-unist-students-honored-at-the-2020-campus-patent-universiade-competition/)] 
+
+Teaching
+======
+* Ulju The Dream Campus Mentoring Program
+  * Head Mentor, HeXA, *Basic Python and Algorithm Programming*, 2022
+  * Head Mentor, UNITS, *Let's Build Robot Arm using Arduino and 3D Printer*, 2021
+  
 Book
 ======
 * **김선욱**. (2021). 흔들리며 피다. **별이 탄생하는 순간** (pp. 133-166). 글ego. [[book](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=272558882)]
