@@ -108,8 +108,11 @@ author:
   avatar           : "/assets/photo/photo20220713.jpg"
   bio              : "Undergraduate Student at UNIST"
   location         : "Ulsan, Korea"
-  email            : "d02reams@unist.ac.kr"
+  Email address    : "d02reams@unist.ac.kr"
   links:
+    - label: "Last Update: 2022-07-29"
+      icon: "fa-solid fa-calendar-check"
+      url: " "
     - label: "Notion"
       icon: "fas fa-fw fa-cube"
       url: "https://5eonukkim.notion.site"
@@ -125,9 +128,6 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "d02reams@unist.ac.kr"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "d02reams@unist.ac.kr"
 
 # Site Footer
 footer:
