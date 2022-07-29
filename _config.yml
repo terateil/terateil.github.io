@@ -109,10 +109,11 @@ author:
   bio              : "Undergraduate Student at UNIST"
   location         : "Ulsan, Korea"
   email            : 
+  date             : 2022-07-29
   links:
     - label: "d02reams@unist.ac.kr"
       icon: "fas fa-fw fa-envelope-square"
-      url: " "
+      url: False
     - label: "Notion"
       icon: "fas fa-fw fa-cube"
       url: "https://5eonukkim.notion.site"

@@ -1,18 +1,17 @@
 ---
 layout: single
-title: "Portfolio"
-permalink: /portfolio/
+title: "Project"
+permalink: /project/
 author_profile: true
 classes: wide
-date: 2022-07-29
 
 feature_row0-1:
-  - image_path: assets/gif/gifify.gif
+  - image_path: # assets/gif/gifify.gif
     alt: "AWS app demo"
     title: "Gifify App"
     text: "I developed a Gifify app where a user can upload a video and get it processed into a gif. This is a Flask app deployed to AWS EC2 instance. The user login data is saved into DynamoDB, while the users' uploaded videos and resulting gifs are stored on S3 buckets. The video processing is implemented through a Lambda function (deployed via Docker to ECS)."
     tags:
-        - AWS
+        - Python
         - Lambda
         - S3
         - EC2
@@ -196,8 +195,8 @@ feature_row5:
 ---
 
 ## Projects in Computer Science
-
-{% include feature_row id="feature_row0-1" type="left" %}
+#### Upcomming
+<!-- {% include feature_row id="feature_row0-1" type="left" %}
 <a name="Gifify AWS app"></a>
 {% include feature_row id="feature_row0-2" type="left" %}
 <a name="HWT game"></a>
@@ -206,11 +205,11 @@ feature_row5:
 {% include feature_row id="feature_row0-4" type="left" %}
 <a name="Python app"></a>
 <a name="NLP Flask app"></a>
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row2" type="left" %} -->
 
-## Projects in Data Science
-
-&nbsp;
+## Projects in Design
+#### Upcomming
+<!-- &nbsp;
 <a name="Signal-Processing">
 {% include feature_row id="feature_row1-0" type="left" %}
 {% include feature_row id="feature_row5" type="left" %}
@@ -222,9 +221,9 @@ feature_row5:
 {% include feature_row id="feature_row1-3" type="left" %}
 <a name="Tableau-Dashboard"></a>
 {% include feature_row id="feature_row1-4" type="left" %}
-<!-- <a name="Digital-Marketing"></a>
-{% include feature_row id="feature_row4" type="left" %} -->
+<a name="Digital-Marketing"></a>
+{% include feature_row id="feature_row4" type="left" %}
 <a name="Recommender-System"></a>
-{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row3" type="left" %} -->
 
 

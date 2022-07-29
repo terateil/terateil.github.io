@@ -4,7 +4,6 @@ permalink: /cv/
 title: 
 author_profile: true
 classes: wide
-date: 2022-07-29
 redirect_from:
   - /resume
 ---
