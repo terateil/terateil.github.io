@@ -111,7 +111,7 @@ author:
   email            : "d02reams@unist.ac.kr"
   links:
     - label: "Update: 2022-07-29"
-      icon: "fas fa-calendar-check"
+      icon: "fas fa-fw fa-calendar-check"
       url: " "
     - label: "Notion"
       icon: "fas fa-fw fa-cube"
