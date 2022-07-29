@@ -110,9 +110,9 @@ author:
   location         : "Ulsan, Korea"
   email            : 
   links:
-    - label: "Email"
+    - label: "d02reams@unist.ac.kr"
       icon: "fas fa-fw fa-envelope-square"
-      url: "d02reams@unist.ac.kr"
+      url: " "
     - label: "Notion"
       icon: "fas fa-fw fa-cube"
       url: "https://5eonukkim.notion.site"
