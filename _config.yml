@@ -108,9 +108,9 @@ author:
   avatar           : "/assets/photo/photo20220713.jpg"
   bio              : "Undergraduate Student at UNIST"
   location         : "Ulsan, Korea"
-  email            : d02reams@unist.ac.kr
+  email            : "d02reams@unist.ac.kr"
   links:
-    - label: "Last Update: 2022-07-29"
+    - label: "Update: 2022-07-29"
       icon: "fas fa-calendar-check"
       url: " "
     - label: "Notion"

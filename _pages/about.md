@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 date: 2022-07-29
 ---
-<span style=" font: bold 2em Cambria;">
+<span style=" font: bold 2em;">
   Seonuk Kim | AI + Comics
 </span>
 <figure style="width: 85%" class="align-center">
