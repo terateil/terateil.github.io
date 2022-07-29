@@ -114,7 +114,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "d02reams@unist.ac.kr"
     - label: "Notion"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-cube"
       url: "https://5eonukkim.notion.site"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
