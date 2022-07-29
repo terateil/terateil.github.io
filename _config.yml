@@ -108,8 +108,7 @@ author:
   avatar           : "/assets/photo/photo20220713.jpg"
   bio              : "Undergraduate Student at UNIST"
   location         : "Ulsan, Korea"
-  email            : " "
-  date             : 2022-07-29
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
