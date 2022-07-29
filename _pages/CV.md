@@ -35,7 +35,7 @@ Creative Support Tool for Line Drawing in Manga Production.
 
 Awards
 ======
-* ***Best Student Paper Honorable Mention Award***, 2022 Spring DSUS, 2022
+* ***Student Paper Honorable Mention Award***, 2022 Spring DSUS, 2022
   * Design Seminar on University Students hosted by *Korea Society of Design Studies (KSDS)*
 * *Excellent Prize*, IEEE Quiz Contest KOREA, 2022
   * Undergraduate Quiz Contest using IEEE Xplore hosted by *IEEE*, *KITIS*
