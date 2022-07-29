@@ -1,14 +1,11 @@
 ---
 layout: archive
 permalink: /
-title: 
+title: Seonuk Kim | AI + Comics
 author_profile: true
 classes: wide
 date: 2022-07-29
 ---
-<span style=" font: bold 2em;">
-  Seonuk Kim | AI + Comics
-</span>
 <figure style="width: 85%" class="align-center">
   <img src="/assets/images/about20220713.jpg" alt="">
 </figure>
