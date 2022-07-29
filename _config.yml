@@ -108,14 +108,15 @@ author:
   avatar           : "/assets/photo/photo20220713.jpg"
   bio              : "Undergraduate Student at UNIST"
   location         : "Ulsan, Korea"
-  email            : 
+  email            : " "
+  date             : 2022-07-29
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "d02reams@unist.ac.kr"
-    - label: "Website"
+    - label: "Notion"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://5eonukkim.notion.site"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
