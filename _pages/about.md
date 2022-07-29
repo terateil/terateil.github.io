@@ -4,7 +4,7 @@ permalink: /
 title: 
 author_profile: true
 classes: wide
-date: July 29, 2022
+date: 2022-07-29
 ---
 <span style=" font: bold 2em Cambria;">
   Seonuk Kim | AI + Comics

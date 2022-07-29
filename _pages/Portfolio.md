@@ -4,7 +4,7 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 classes: wide
-date: "2022-07-29"
+date: 2022-07-29
 
 feature_row0-1:
   - image_path: assets/gif/gifify.gif
