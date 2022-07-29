@@ -107,13 +107,9 @@ author:
   name             : "Seonuk Kim"
   avatar           : "/assets/photo/photo20220713.jpg"
   bio              : "Undergraduate Student at UNIST"
-  bio              : "Last Update: 2022-07-29"
   location         : "Ulsan, Korea"
-  email            : 
+  email            : "d02reams@unist.ac.kr"
   links:
-    - label: "d02reams@unist.ac.kr"
-      icon: "fas fa-fw fa-envelope-square"
-      url: d02reams@unist.ac.kr
     - label: "Notion"
       icon: "fas fa-fw fa-cube"
       url: "https://5eonukkim.notion.site"
@@ -129,6 +125,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "d02reams@unist.ac.kr"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "d02reams@unist.ac.kr"
 
 # Site Footer
 footer:
