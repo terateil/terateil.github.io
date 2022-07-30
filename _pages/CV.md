@@ -10,9 +10,9 @@ redirect_from:
 <a href="notion" class="btn--primary"></a>
 [Notion (KR)](https://5eonukkim.notion.site/){: .btn .btn--primary }
 <a href="CV" class="btn--primary"></a>
-[<strong><i class="fas fa-fw fa-download" aria-hidden="true"></i> Full CV (EN)](../_pages/SEONUK_CV_20220801_A4.pdf){: .btn .btn--primary }
+[Full CV (EN)](../_pages/SEONUK_CV_20220801_A4.pdf){: .btn .btn--primary }
 <a href="Resume" class="btn--primary"></a>
-[<strong><i class="fas fa-fw fa-download" aria-hidden="true"></i> 1-page Resume (EN)](../_pages/SEONUK_Resume_20220801_A4.pdf){: .btn .btn--primary }
+[1-page Resume (EN)](../_pages/SEONUK_Resume_20220801_A4.pdf){: .btn .btn--primary }
 
 Education
 ======
