@@ -37,7 +37,7 @@ Awards
 ======
 * ***Student Paper Honorable Mention Award***, 2022 Spring DSUS, 2022
   * Design Seminar on University Students hosted by *Korea Society of Design Studies (KSDS)*
-* *Excellent Prize*, IEEE Quiz Contest KOREA, 2022
+* *Excellence Prize*, IEEE Quiz Contest KOREA, 2022
   * Undergraduate Quiz Contest using IEEE Xplore hosted by *IEEE*, *KITIS*
 * *Silver Prize*, UNIST-POSTECH-KAIST Data Science Competition, 2021
   * Data science competition aimed to predict shale gas production and make purchase decisions hosted by *UNIST*, *POSTECH*, *KAIST*, *SK Innovation*, *kakao enterprise*, *Korea National Oil Corporation* [[article](http://news.unist.ac.kr/successful-completion-of-2021-unist-postech-kaist-data-science-competition/)]
@@ -45,7 +45,7 @@ Awards
   * Essay contest to commemorate Lee Soo Hyun, who passed away while trying to save a passenger from a subway accident hosted by *Consulate‑General of Japan in Busan*. His spirit improved the South Korea-Japan relations [[article:2001](https://www.donga.com/en/article/all/20011231/210363/1)] [[article:2021](https://www.donga.com/en/article/all/20210125/2393536/1)]
 * *Special Prize*, Uni-CODE, 2020
   * UNIST Algorithm Programming Contest hosted by *UNIST CSE Department*
-* *Excellent Prize*, Campus Patent Universiade, 2020
+* *Excellence Prize*, Campus Patent Universiade, 2020
   * Patent and marketing idea contest hosted *Korean Intellectual Property Office (KIPO)*, *Samsung Electronics* [[article](http://news.unist.ac.kr/a-team-of-unist-students-honored-at-the-2020-campus-patent-universiade-competition/)]<br><br>
 
 Teaching
