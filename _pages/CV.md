@@ -16,15 +16,15 @@ redirect_from:
 
 Education
 ======
-* Ulsan National Institute of Science and Technology <sup>03/2020 - Present</sup>
+* Ulsan National Institute of Science and Technology (UNIST) <sup>03/2020 - Present</sup>
   * B.Sc. Candidate in *[Industrial Engineering](https://ie.unist.ac.kr/eng/)* and *[Design](https://design.unist.ac.kr/)*<br><br>
 
 Research Experience
 ======
-* Ulsan National Institute of Science and Technology <sup>12/2021 - Present</sup>
+* Expressive Computing Lab, UNIST <sup>12/2021 - Present</sup>
   * Undergraduate intern at [Expressive Computing Lab](https://www.klee141.com/), supervised by [Kyungho Lee](https://research.unist.ac.kr/post-research/%EC%9D%B4%EA%B2%BD%ED%98%B8-expc-lab/?eng)<br>
 
-* Ulsan National Institute of Science and Technology <sup>11/2020 - 12/2021</sup>
+* Service Engineering \& Knowledge Discovery Lab, UNIST <sup>11/2020 - 12/2021</sup>
   * Researcher of Artifical Intelligence Graduate School Creative Autonomous Research Program, supervised by [Chiehyeon Lim](https://research.unist.ac.kr/post-research/%ec%9e%84%ec%b9%98%ed%98%84_service-engineering-knowledge-discovery/?eng)<br><br>
 
 Publication
