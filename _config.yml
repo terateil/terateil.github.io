@@ -110,7 +110,7 @@ author:
   location         : "Ulsan, Korea"
   email            : "d02reams@unist.ac.kr"
   links:
-    - label: "Last Updated: 2022-08-01"
+    - label: "Last Updated: "<time datetime="{{ page.last_modified_at | date: "%Y-%m-%d" }}">
       icon: "fas fa-fw fa-calendar-check"
       url: " "
     - label: "Notion"
