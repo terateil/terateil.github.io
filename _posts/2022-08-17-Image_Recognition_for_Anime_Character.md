@@ -11,13 +11,16 @@ tags:
 
 {% include video id="sQ37OE_1EfY" provider="youtube" %}
 
-<div class="notice">
 #### 요약
+{: .notice--primary}
 기존의 사진 기반 얼굴 인식 모델로는 애니메이션 캐릭터 얼굴을 올바르게 분류해낼 수 없다. 따라서 애니메이션 캐릭터 얼굴 데이터를 기반으로 새로운 모델을 학습시켜야 한다. 그러나 이 과정에서 데이터셋 부족, 이미지 인덱싱(indexing) 등의 문제가 존재한다. 이를 위해 Transfer Learning을 이용했으며, 기존 모델들과 비교해본 결과 저자의 MoeFlow가 88.6%의 분류 정확도를 보였다. 그러나 측면 얼굴 인식 등은 안되는 한계가 존재했다.
+{: .notice--primary}
 
+{: .notice--primary}
 - Blog: https://freedomofkeima.com/blog/
+{: .notice--primary}
 - Github Repo: https://github.com/freedomofkeima/transfer-learning-anime/
-</div>
+{: .notice--primary}
 
 ### 인상깊었던 점
 가장 인상깊었던 점은 (당연하게 여길 수도 있지만) 기존 사진 기반 얼굴 인식 모델로는 애니메이션 캐릭터 얼굴을 올바르게 인식해낼 수 없다는 부분이었습니다. 이를 보면서 최근에 들었던 두 가지 강연을 떠올렸습니다. 
@@ -62,10 +65,10 @@ tags:
 비록 PyCon에 없었기 때문에 질문은 할 수 없었지만, 제가 만약 PyCon에서 세 가지 질문을 할 수 있었다면 아래와 같은 질문을 했을 것 같습니다.
 
 **Q1.** 애니메이션 캐릭터 데이터셋의 Indexing/Labeling을 자동화할 수단이 있을까요? 또한, 모에 토너먼트 같은 대회가 정기적으로 열리는 일본 같은 경우는 캐릭터의 인기도에 대한 Rating을 해볼수도 있을 것 같은데 이를 어떻게 생각하시나요?
-{: .notice}
+{: .notice--primary}
 
 **Q2.** 비슷하다고 생각할수도 있지만, 대부분의 출판만화에서 캐릭터들이 흑백으로 되어있어 채색이 되어있는 애니메이션 캐릭터에 비해 학습을 통해 feature를 알아내기가 더 힘들 것 같습니다. 애니메이션 캐릭터의 경우 채색 스타일 등을 Bias로 Overfitting된 결과를 보여줄 수도 있다고 생각하는데 혹시 출판만화 캐릭터들을 통해 학습해본 경험은 있으신가요?
-{: .notice}
+{: .notice--primary}
 
 **Q3.** 캐릭터 사진을 Resizing하는 이유가 궁급합니다. Resizing 전/후로 성능 차이가 많이 달라지나요? 달라지면 그 이유는 무엇인지 궁금합니다.
-{: .notice}
+{: .notice--primary}
