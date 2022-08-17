@@ -11,14 +11,11 @@ tags:
 
 {% include video id="sQ37OE_1EfY" provider="youtube" %}
 
-<div class="notice--primary" markdown="1">
-<h3>요약</h3>
-기존의 사진 기반 얼굴 인식 모델로는 애니메이션 캐릭터 얼굴을 올바르게 분류해낼 수 없다. 따라서 애니메이션 캐릭터 얼굴 데이터를 기반으로 새로운 모델을 학습시켜야 한다. 그러나 이 과정에서 데이터셋 부족, 이미지 인덱싱(indexing) 등의 문제가 존재한다. 이를 위해 Transfer Learning을 이용했으며, 기존 모델들과 비교해본 결과 저자의 MoeFlow가 88.6%의 분류 정확도를 보였다. 그러나 측면 얼굴 인식 등은 안되는 한계가 존재했다.
-<br>
-
-- Blog: https://freedomofkeima.com/blog/
-- Github Repo: https://github.com/freedomofkeima/transfer-learning-anime/
-</div>
+> #### 요약
+> 기존의 사진 기반 얼굴 인식 모델로는 애니메이션 캐릭터 얼굴을 올바르게 분류해낼 수 없다. 따라서 애니메이션 캐릭터 얼굴 데이터를 기반으로 새로운 모델을 학습시켜야 한다. 그러나 이 과정에서 데이터셋 부족, 이미지 인덱싱(indexing) 등의 문제가 존재한다. 이를 위해 Transfer Learning을 이용했으며, 기존 모델들과 비교해본 결과 저자의 MoeFlow가 88.6%의 분류 정확도를 보였다. 그러나 측면 얼굴 인식 등은 안되는 한계가 존재했다.
+> 
+> - Blog: https://freedomofkeima.com/blog/
+> - Github Repo: https://github.com/freedomofkeima/transfer-learning-anime/
 
 ### 인상깊었던 점
 가장 인상깊었던 점은 (당연하게 여길 수도 있지만) 기존 사진 기반 얼굴 인식 모델로는 애니메이션 캐릭터 얼굴을 올바르게 인식해낼 수 없다는 부분이었습니다. 이를 보면서 최근에 들었던 두 가지 강연을 떠올렸습니다. 
