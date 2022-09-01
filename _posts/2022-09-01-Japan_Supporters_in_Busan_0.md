@@ -1,5 +1,5 @@
 ---
-title: "주부산일본국총영사관 서포터즈 7기 0편: 소년과 바다"
+title: "주부산일본국총영사관 서포터즈 7기 - 0편: 소년과 바다"
 header:
 toc: true
 toc_sticky: true
