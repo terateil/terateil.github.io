@@ -1,6 +1,9 @@
 ---
 title: "Review: Image Recognition for Anime Character(PyConHK 2018)"
 header:
+toc: true
+toc_sticky: true
+toc_label: "Contents"
 excerpt: 파이썬 딥러닝을 이용한 애니 캐릭터 인식 연구 리뷰
 date: 2022-08-17
 tags:
