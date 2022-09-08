@@ -10,8 +10,6 @@ tags:
   - languages:Korean
   - tags:Consulate-General of Japan in Busan
   - tags:Supporters
-  - tags:Japan
-  - tags:Busan
   - tags:Lee Soo Hyun
 ---
 
