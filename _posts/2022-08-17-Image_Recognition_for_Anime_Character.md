@@ -20,6 +20,7 @@ tags:
 
 - Blog: https://freedomofkeima.com/blog/
 - Github Repo: https://github.com/freedomofkeima/transfer-learning-anime/
+<br><br>
 </div>
 
 ### 인상깊었던 점
