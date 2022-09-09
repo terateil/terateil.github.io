@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "Contents"
 excerpt: 주부산일본국총영사관 서포터즈 7기 - 1편 고교생 일본어말하기대회
-date: 2022-09-09
+date: 2022-09-10
 tags:
   - languages:Korean
   - tags:Consulate-General of Japan in Busan
