@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "Contents"
 excerpt: AI로 만들어진 창작물을 전문가 혹은 비전문가가 어떻게 평가할까?
-date: 2022-09-09
+date: 2022-09-08
 tags:
   - languages:Korean
   - tags:Art
