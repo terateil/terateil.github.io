@@ -11,7 +11,6 @@ tags:
   - tags:Consulate-General of Japan in Busan
   - tags:Supporters
 ---
-
 ### 2022년 제22회 고교생 일본어말하기대회
 
 <p align="center"><img src="/assets/images/JR1.jpg"></p>
