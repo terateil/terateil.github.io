@@ -4,7 +4,7 @@ header:
 toc: true
 toc_sticky: true
 toc_label: "Contents"
-excerpt: 2022-09-01 주부산일본국총영사관 서포터즈 7기 - 0편
+excerpt: 주부산일본국총영사관 서포터즈 7기 - 0편
 date: 2022-09-01
 tags:
   - languages:Korean

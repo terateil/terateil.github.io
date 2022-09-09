@@ -24,31 +24,31 @@ tags:
 |:---:|:---:|---|
 |**컴퓨터가 소설을 쓰는 날 <sup>[[1]](#footnote_1)</sup>**|<center>소설</center>|하코다테 미래대학의 마쓰바라 진 교수가 호시 신이치의 소설 1000여편을 학습한 인공지능으로 쓴 소설 **컴퓨터가 소설을 쓰는 날**을 2016년 니혼게이자이 신문사가 주최하는 호시 신이치 SF 문학상 공모전에 출품하여 1차 심사 통과. 기초적인 문장 작업은 사람이 하고 인공지능이 적절한 단어를 선택.|
 |**현인강림 <sup>[[1]](#footnote_1)</sup>**|<center>소설</center>|니토베 이나조와 후쿠자와 유키치의 저서를 딥러닝으로 학습한 인공지능 '제로'로 쓰인 소설 **현인강림**을 2016년에 출판사에서 상업적 목적으로 교정없이 출판. '젊은이', '학문을 통한 입신', '세계를 제패하다', '성공이란', '인간이란 무엇을 말하는가'에 대한 문답 형식으로 작성.|
-|**프렌즈 후속<br> 시나리오 <sup>[[1]](#footnote_1)</sup>**|<center>시트콤<br>(시나리오)</center>|2016년 미국의 개발자 앤디 허드(Andy Herd)가 종영한 미국 인기 시트콤 **프렌즈** 대본을 학습한 인공지능으로 기존 에피소드와 비슷한 후속 시나리오를 작성.|
-|**썬스프링<br>(Sunspring) <sup>[[1]](#footnote_1)</sup>**|<center>영화<br>(시나리오)</center>|2016년 런던 공상과학영화제에 180여개의 작품 중 10위 안에 든 단편 SF영화 **썬스프링**의 시나리오는 인공지능 '벤자민'이 제작. 1980년대부터 1990년대 공상과학 영화나 텔레비전 프로그램 대본을 딥러닝으로 학습.|
+|**프렌즈 후속<br> 시나리오 <sup>[[1]](#footnote_1)</sup>**|<center>시나리오</center>|2016년 미국의 개발자 앤디 허드(Andy Herd)가 종영한 미국 인기 **시트콤** **프렌즈** 대본을 학습한 인공지능으로 기존 에피소드와 비슷한 후속 시나리오를 작성.|
+|**썬스프링<br>(Sunspring) <sup>[[1]](#footnote_1)</sup>**|<center>시나리오</center>|2016년 런던 공상과학영화제에 180여개의 작품 중 10위 안에 든 단편 SF영화 **썬스프링**의 시나리오는 인공지능 '벤자민'이 제작. 1980년대부터 1990년대 공상과학 **영화**나 텔레비전 프로그램 대본을 딥러닝으로 학습.|
 
 #### 미술 
-**Deep Dream Generator AI (2015) <sup>[[3]](#footnote_3)</sup>, <br>Google [[site]](https://deepdreamgenerator.com/)**
+**Deep Dream Generator AI (2015)<sup>[[3]](#footnote_3)</sup>, <br>Google [[site]](https://deepdreamgenerator.com/)**
 
 {% include video id="Acst11cFmxE" provider="youtube" %}<br>사진과 회화를 중첩시켜 초현실주의 작품 생성. 2016년 2월 전시회에서 그림 29점을 판매(최고가 9,000달러, 종합 9만 7,605달러(약 1억 2,046만원))<br><br>
 
-**Deep Forger (2015) <sup>[[4]](#footnote_4)</sup>, <br>Twitter [[app]](https://rarible.com/deepforger)**
+**Deep Forger (2015)<sup>[[4]](#footnote_4)</sup>, <br>Twitter [[app]](https://rarible.com/deepforger)**
 
 {% include video id="1j0zAfAyn1I" provider="youtube" %}<br>
 
-**The Next Rembrandt AI (2016) <sup>[[3]](#footnote_3)</sup>, <br>Microsoft, TU Delft [[site]](https://www.nextrembrandt.com/)**
+**The Next Rembrandt AI (2016)<sup>[[3]](#footnote_3)</sup>, <br>Microsoft, TU Delft [[site]](https://www.nextrembrandt.com/)**
 
-{% include video id="IuygOYZ1Ngo" provider="youtube" %}<br>150 GB의 자료를 딥러닝으로 학습한 인공지능으로 '검은 옷을 입은', '모자를 쓴', '하얀 깃 장식을 한'. '30-40대의 백인 남성', '렘브란트 화풍'을 키워드로 그림을 그리도록 명령하고 붓 터치와 유화의 질감을 재현하기 위해 3D 프린팅으로 인쇄<br><br>
+{% include video id="IuygOYZ1Ngo" provider="youtube" %}<br>150 GB의 자료를 딥러닝으로 학습한 인공지능으로 **검은 옷을 입은, 모자를 쓴, 하얀 깃 장식을 한, 30-40대의 백인 남성, 렘브란트 화풍**을 키워드로 그림을 그리도록 명령하고 붓 터치와 유화의 질감을 재현하기 위해 3D 프린팅으로 인쇄<br><br>
 
-**TAIDA (2016) <sup>[[1]](#footnote_1)</sup>, <br>National Taiwan Univ. [[site]](https://robotart.org/2016-winners/)**
+**TAIDA (2016)<sup>[[1]](#footnote_1)</sup>, <br>National Taiwan Univ. [[site]](https://robotart.org/2016-winners/)**
 
 {% include video id="nDp124yDr14" provider="youtube" %}<br>2016년 Stanford Univ.의 Andrew Conru 박사가 주최하고 로봇이 직접 현장에 참여해 작품을 완성해야하는 RoboArt 대회 최종 우승<br><br>
 
-**Prisma (2016) <sup>[[4]](#footnote_4)</sup>, <br>Prisma Labs [[site]](https://prisma-ai.com/)**
+**Prisma (2016)<sup>[[4]](#footnote_4)</sup>, <br>Prisma Labs [[site]](https://prisma-ai.com/)**
 
 {% include video id="JkDrgbRN2ic" provider="youtube" %}<br>사진을 초현실주의, 인상주의, 팝아트 등 다양한 화가의 화풍으로 변화시켜 모바일 아트를 할 수 있도록 하는 앱<br><br>
 
-**AutoDraw (2017) <sup>[[4]](#footnote_4)</sup>, <br>Google [[site]](https://www.autodraw.com/)**
+**AutoDraw (2017)<sup>[[4]](#footnote_4)</sup>, <br>Google [[site]](https://www.autodraw.com/)**
 
 {% include video id="VwRbvVrUXTc" provider="youtube" %}<br>
 
@@ -56,20 +56,20 @@ tags:
 
 ![CAN](/assets/images/CAN.png)<br>
 
-**Vincent AI (2017) <sup>[[4]](#footnote_4)</sup>, <br>NVidia [[article]](https://www.aitimes.kr/news/articleView.html?idxno=10841)**
+**Vincent AI (2017)<sup>[[4]](#footnote_4)</sup>, <br>NVidia [[article]](https://www.aitimes.kr/news/articleView.html?idxno=10841)**
 
 {% include video id="P1sBNac83ls" provider="youtube" %}<br>
 
-**Obvious AI (2018) <sup>[[3]](#footnote_3)</sup>, <br>Obvious (startup) [[site]](https://obvious-art.com/)**
+**Obvious AI (2018)<sup>[[3]](#footnote_3)</sup>, <br>Obvious (startup) [[site]](https://obvious-art.com/)**
 
-{% include video id="Pu2GZ3du7PI" provider="youtube" %}<br>'에드몽 드 벨라미(Edmond de Belamy)'라는 작품을 만들어 43만 2000달러(약 5억 1900만원)에 판매<br><br>
+{% include video id="Pu2GZ3du7PI" provider="youtube" %}<br>**에드몽 드 벨라미(Edmond de Belamy)** 작품을 만들어 43만 2000달러(약 5억 1900만원)에 판매<br><br>
 
-**Ai-Da (2019) <sup>[[3]](#footnote_3)</sup>, <br>Engineered Arts, Leeds Univ., Oxford Univ. [[site]](https://www.ai-darobot.com/)**
+**Ai-Da (2019)<sup>[[3]](#footnote_3)</sup>, <br>Engineered Arts, Leeds Univ., Oxford Univ. [[site]](https://www.ai-darobot.com/)**
 
 
 {% include video id="VHZctjpvpZo" provider="youtube" %}<br>기계식 팔과 눈에 부착된 카메라, 경로실행 알고리즘으로 사물을 인식하고 그림을 그리는 드로잉 로봇<br><br>
 
-**GauGAN (2019) <sup>[[4]](#footnote_4)</sup>, <br>NVidia [[site]](http://gaugan.org/gaugan2/)**
+**GauGAN (2019)<sup>[[4]](#footnote_4)</sup>, <br>NVidia [[site]](http://gaugan.org/gaugan2/)**
 
 {% include video id="p5U4NgVGAwg" provider="youtube" %}<br>
 
