@@ -18,7 +18,8 @@ tags:
 </div>
 
 ### 문헌연구
-#### 문학<sup>[1](#footnote_1)</sup>
+#### 문학 <sup>[[1]](#footnote_1)</sup>
+
 |제목|분류|내용|
 |:---:|:---:|---|
 |컴퓨터가 소설을 쓰는 날|소설|하코다테 미래대학의 마쓰바라 진 교수가 호시 신이치의 소설 1000여편을 학습한 인공지능으로 쓴 소설 <컴퓨터가 소설을 쓰는 날>을 2016년 니혼게이자이 신문사가 주최하는 호시 신이치 SF 문학상 공모전에 출품하여 1차 심사 통과. 기초적인 문장 작업은 사람이 하고 인공지능이 적절한 단어를 선택.|
@@ -26,7 +27,8 @@ tags:
 |프렌즈 후속 시나리오|시트콤 시나리오|2016년 미국의 개발자 앤디 허드(Andy Herd)가 종영한 미국 인기 시트콤 <프렌즈> 대본을 학습한 인공지능으로 기존 에피소드와 비슷한 후속 시나리오를 작성.|
 |썬스프링(Sunspring)|영화 시나리오|2016년 런던 공상과학영화제에 180여개의 작품 중 10위 안에 든 단편 SF영화 <썬스프링>의 시나리오는 인공지능 '벤자민'이 제작. 1980년대부터 1990년대 공상과학 영화나 텔레비전 프로그램 대본을 딥러닝으로 학습.|
 
-#### 미술<sup>[1](#footnote_1)</sup> <sup>[2](#footnote_2)</sup> <sup>[3](#footnote_3)</sup> <sup>[4](#footnote_4)</sup> <sup>[5](#footnote_5)</sup>
+#### 미술 
+
 |제목|정보|
 |---|---|
 |2015, <br>Deep Dream Generator AI, <br>Google [[site]](https://deepdreamgenerator.com/)|{% include video id="Acst11cFmxE" provider="youtube" %}<br>사진과 회화를 중첩시켜 초현실주의 작품 생성. 2016년 2월 전시회에서 그림 29점을 판매(최고가 9,000달러, 종합 9만 7,605달러(약 1억 2,046만원))|
@@ -41,6 +43,7 @@ tags:
 |2019, <br>Ai-Da, <br>Engineered Arts, Leeds Univ., Oxford Univ. [[site]](https://www.ai-darobot.com/)|{% include video id="VHZctjpvpZo" provider="youtube" %}<br>기계식 팔과 눈에 부착된 카메라, 경로실행 알고리즘으로 사물을 인식하고 그림을 그리는 드로잉 로봇|
 |2019, <br>GauGAN, <br>NVidia [[site]](http://gaugan.org/gaugan2/)|{% include video id="p5U4NgVGAwg" provider="youtube" %}|
 
+<sup>[[1]](#footnote_1)</sup> <sup>[[2]](#footnote_2)</sup> <sup>[[3]](#footnote_3)</sup> <sup>[[4]](#footnote_4)</sup> <sup>[[5]](#footnote_5)</sup>
 
 <div class="notice--primary" markdown="1">
 <h4>참고문헌</h4>
