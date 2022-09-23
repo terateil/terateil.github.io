@@ -9,12 +9,13 @@ redirect_from:
 toc: true
 toc_label: "Contents"
 ---
+
 <a href="notion" class="btn--primary"></a>
-<i class='fas fa-download'></i>[Notion (KR)](https://5eonukkim.notion.site/){: .btn .btn--primary }
+[<i class='fas fa-download'></i> Notion (KR)](https://5eonukkim.notion.site/){: .btn .btn--primary }
 <a href="CV" class="btn--primary"></a>
-<i class='fas fa-download'></i>Full CV (EN)](../_pages/SEONUK_CV_20220801_A4.pdf){: .btn .btn--primary }
+[<i class='fas fa-download'></i> Full CV (EN)](../_pages/SEONUK_CV_20220801_A4.pdf){: .btn .btn--primary }
 <a href="Resume" class="btn--primary"></a>
-<i class='fas fa-download'></i>[1-page Resume (EN)](../_pages/SEONUK_Resume_20220801_A4.pdf){: .btn .btn--primary }
+[<i class='fas fa-download'></i> 1-page Resume (EN)](../_pages/SEONUK_Resume_20220801_A4.pdf){: .btn .btn--primary }
 
 Education
 ======
@@ -51,11 +52,16 @@ Awards
 ======
 {% capture notice %}
 ***Student Paper Honorable Mention Award<sup>[[1]](DC1)</sup>***, Korea Society of Design Studies `2022`
+
 **Excellence Prize, IEEE Quiz Contest KOREA,**, IEEE, KITIS `2022`
+
 **Silver Prize, UNIST-POSTECH-KAIST Data Science Competition**, UNIST, POSTECH, KAIST, SK Innovation, kakao enterprise, Korea National Oil Corporation `2021`
  [[article](http://news.unist.ac.kr/successful-completion-of-2021-unist-postech-kaist-data-science-competition/)]
+
 **Gold Prize, Lee Soo Hyun 20th Anniversary Book Review Contest**, Consulate‑General of Japan in Busan `2021` [[article:2001](https://www.donga.com/en/article/all/20011231/210363/1)] [[article:2021](https://www.donga.com/en/article/all/20210125/2393536/1)]
+
 **Special Prize, Uni-CODE: UNIST Algorithm Programming Contest**, UNIST CSE Department `2020`
+
 **Excellence Prize, Campus Patent Universiade**, Korean Intellectual Property Office (KIPO), Samsung Electronic `2020` [[article](http://news.unist.ac.kr/a-team-of-unist-students-honored-at-the-2020-campus-patent-universiade-competition/)]
 {% endcapture %}
 <div class="notice--primary">{{ notice | markdownify }}</div>
@@ -66,10 +72,13 @@ Extra-Curricular
 __Supporters of Consulate‑General of Japan in Busan__ `Aug. 2022 - Present`
   * Undergraduate Student Ambassador for Promotion of Korea-Japan Relations
   * Invitation to Japan at Consulate-General of Japan in [JENESYS](https://www.busan.kr.emb-japan.go.jp/itpr_ko/00_000457.html) in January (Planned)
+
 __HeXA (Hacker’s eXciting Academy), UNIST Programming and Security Society__ `Sep. 2020 - Present`
   * __President__ `Aug. 2022 - Present` / Executive Member `Mar. 2021 - Aug. 2022`
+
 __brAIns (brew AI neo scientist), UNIST Artificial Intelligence Society__ `Jan. 2021 - Present`
   * __Executive Member__ `Mar. 2022 - Present`
+
 __Ulju The Dream Campus Mentoring Program__ `Sep. 2021 - Presemt`
   * Education volunteer work for local middle school students
   * __Head Mentor, HeXA__, *Basic Python and Algorithm Programming*, 2022
