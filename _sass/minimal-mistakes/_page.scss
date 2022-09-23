@@ -93,7 +93,6 @@ body {
 
 .page__content {
   h2 {
-    font-size: $type-size-5;
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
   }
@@ -118,7 +117,7 @@ body {
   p,
   li,
   dl {
-    font-size: 0.8em;
+    font-size: 0.9em;
   }
 
   /* paragraph indents */
