@@ -57,7 +57,7 @@ Awards
  [[article](http://news.unist.ac.kr/successful-completion-of-2021-unist-postech-kaist-data-science-competition/)]\
 **Gold Prize, Lee Soo Hyun 20th Anniversary Book Review Contest**, Consulate‑General of Japan in Busan `2021` [[article:2001](https://www.donga.com/en/article/all/20011231/210363/1)] [[article:2021](https://www.donga.com/en/article/all/20210125/2393536/1)]\
 **Special Prize, Uni-CODE: UNIST Algorithm Programming Contest**, UNIST CSE Department `2020`\
-**Excellence Prize, Campus Patent Universiade**, Korean Intellectual Property Office (KIPO), Samsung Electronic `2020` [[article](http://news.unist.ac.kr/a-team-of-unist-students-honored-at-the-2020-campus-patent-universiade-competition/)]
+**Excellence Prize, Campus Patent Universiade**, Korean Intellectual Property Office, Samsung Electronics `2020` [[article](http://news.unist.ac.kr/a-team-of-unist-students-honored-at-the-2020-campus-patent-universiade-competition/)]
 {% endcapture %}
 <div class="notice--primary">{{ notice | markdownify }}</div>
 
