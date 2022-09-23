@@ -29,10 +29,10 @@ Research Experience
 ======
 {% capture notice %}
 __Expressive Computing Lab__, UNIST `Dec. 2021 - Present`
-  * __Undergraduate intern__ at [Expressive Computing Lab](https://www.klee141.com/), supervised by [Kyungho Lee](https://research.unist.ac.kr/post-research/%EC%9D%B4%EA%B2%BD%ED%98%B8-expc-lab/?eng)
+  * __Undergraduate intern__ at [*Expressive Computing Lab*](https://www.klee141.com/), supervised by [*Kyungho Lee*](https://research.unist.ac.kr/post-research/%EC%9D%B4%EA%B2%BD%ED%98%B8-expc-lab/?eng)
 
 __Service Engineering & Knowledge Discovery Lab__, UNIST `Nov. 2020 - Dec. 2021`
-  * __Researcher of Artifical Intelligence Graduate School Creative Autonomous Research Program__, supervised by [Chiehyeon Lim](https://research.unist.ac.kr/post-research/%ec%9e%84%ec%b9%98%ed%98%84_service-engineering-knowledge-discovery/?eng)<br><br>
+  * __Researcher of Artifical Intelligence Graduate School Creative Autonomous Research Program__, supervised by [*Chiehyeon Lim*](https://research.unist.ac.kr/post-research/%ec%9e%84%ec%b9%98%ed%98%84_service-engineering-knowledge-discovery/?eng)<br><br>
 {% endcapture %}
 <div class="notice--primary">{{ notice | markdownify }}</div>
 
@@ -51,17 +51,12 @@ __Literature__
 Awards
 ======
 {% capture notice %}
-***Student Paper Honorable Mention Award<sup>[[1]](DC1)</sup>***, Korea Society of Design Studies `2022`
-
-**Excellence Prize, IEEE Quiz Contest KOREA,**, IEEE, KITIS `2022`
-
+***Student Paper Honorable Mention Award<sup>[[1]](DC1)</sup>***, Korea Society of Design Studies `2022`\
+**Excellence Prize, IEEE Quiz Contest KOREA,**, IEEE, KITIS `2022`\
 **Silver Prize, UNIST-POSTECH-KAIST Data Science Competition**, UNIST, POSTECH, KAIST, SK Innovation, kakao enterprise, Korea National Oil Corporation `2021`
- [[article](http://news.unist.ac.kr/successful-completion-of-2021-unist-postech-kaist-data-science-competition/)]
-
-**Gold Prize, Lee Soo Hyun 20th Anniversary Book Review Contest**, Consulate‑General of Japan in Busan `2021` [[article:2001](https://www.donga.com/en/article/all/20011231/210363/1)] [[article:2021](https://www.donga.com/en/article/all/20210125/2393536/1)]
-
-**Special Prize, Uni-CODE: UNIST Algorithm Programming Contest**, UNIST CSE Department `2020`
-
+ [[article](http://news.unist.ac.kr/successful-completion-of-2021-unist-postech-kaist-data-science-competition/)]\
+**Gold Prize, Lee Soo Hyun 20th Anniversary Book Review Contest**, Consulate‑General of Japan in Busan `2021` [[article:2001](https://www.donga.com/en/article/all/20011231/210363/1)] [[article:2021](https://www.donga.com/en/article/all/20210125/2393536/1)]\
+**Special Prize, Uni-CODE: UNIST Algorithm Programming Contest**, UNIST CSE Department `2020`\
 **Excellence Prize, Campus Patent Universiade**, Korean Intellectual Property Office (KIPO), Samsung Electronic `2020` [[article](http://news.unist.ac.kr/a-team-of-unist-students-honored-at-the-2020-campus-patent-universiade-competition/)]
 {% endcapture %}
 <div class="notice--primary">{{ notice | markdownify }}</div>
@@ -71,7 +66,7 @@ Extra-Curricular
 {% capture notice %}
 __Supporters of Consulate‑General of Japan in Busan__ `Aug. 2022 - Present`
   * Undergraduate Student Ambassador for Promotion of Korea-Japan Relations
-  * Invitation to Japan at Consulate-General of Japan in [JENESYS](https://www.busan.kr.emb-japan.go.jp/itpr_ko/00_000457.html) in January (Planned)
+  * Invitation to Japan at Consulate-General of Japan in [*JENESYS*](https://www.busan.kr.emb-japan.go.jp/itpr_ko/00_000457.html) in January (Planned)
 
 __HeXA (Hacker’s eXciting Academy), UNIST Programming and Security Society__ `Sep. 2020 - Present`
   * __President__ `Aug. 2022 - Present` / Executive Member `Mar. 2021 - Aug. 2022`
@@ -79,9 +74,9 @@ __HeXA (Hacker’s eXciting Academy), UNIST Programming and Security Society__ `
 __brAIns (brew AI neo scientist), UNIST Artificial Intelligence Society__ `Jan. 2021 - Present`
   * __Executive Member__ `Mar. 2022 - Present`
 
-__Ulju The Dream Campus Mentoring Program__ `Sep. 2021 - Presemt`
+__Ulju The Dream Campus Mentoring Program__ `Sep. 2021 - Present`
   * Education volunteer work for local middle school students
-  * __Head Mentor, HeXA__, *Basic Python and Algorithm Programming*, 2022
-  * __Head Mentor, UNITS__, *Let's Build Robot Arm using Arduino and 3D Printer*, 2021
+  * __Head Mentor, HeXA__, "Basic Python and Algorithm Programming", 2022
+  * __Head Mentor, UNITS__, "Let's Build Robot Arm using Arduino and 3D Printer", 2021
 {% endcapture %}
 <div class="notice--primary">{{ notice | markdownify }}</div>
