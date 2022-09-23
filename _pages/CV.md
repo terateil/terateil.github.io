@@ -40,8 +40,8 @@ Publication
 ======
 {% capture notice %}
 __Domestic Conference__
-  1. **김선욱,** 이경호. (2022). 만화 제작 과정의 노동집약적 선화작업 효율화를 위한 AI의 창의적 이용에 관한 연구.
-*한국디자인학회 학술발표대회 논문집*, 278-279. [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11073042)] <a name="DC1"></a>
+  1. <a name="DC1"></a> **김선욱,** 이경호. (2022). 만화 제작 과정의 노동집약적 선화작업 효율화를 위한 AI의 창의적 이용에 관한 연구.
+*한국디자인학회 학술발표대회 논문집*, 278-279. [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11073042)]
 
 __Literature__
   1. **김선욱**. (2021). 흔들리며 피다. **별이 탄생하는 순간** (pp. 133-166). 글ego. [[book](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=272558882)]
