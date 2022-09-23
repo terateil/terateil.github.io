@@ -61,7 +61,8 @@ feature_row21-1:
 feature_row21-2:
   - image_path: assets/project/bookego.jpg
     alt: "egowriting"
-    title: "Published a [book](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=272558882) after professional literary writers coached 9 socioculturally diverse people for 6 weeks. I wrote a short story titled 'Wind and Blooms', the story of a boy who has been wound by his family and society growing up."
+    title: "Publish literature book in 6 weeks with egowriting"
+    text: "Published a [book](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=272558882) after professional literary writers coached 9 socioculturally diverse people for 6 weeks. I wrote a short story titled 'Wind and Blooms', the story of a boy who has been wound by his family and society growing up."
     tags:
         - Literature
         - Short story
