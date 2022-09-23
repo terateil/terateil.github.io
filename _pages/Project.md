@@ -4,6 +4,8 @@ title: "Project"
 permalink: /project/
 author_profile: true
 classes: wide
+toc: true
+toc_label: "Years"
 
 feature_row20-1:
   - image_path: assets/project/2020CPU.gif
@@ -184,8 +186,7 @@ feature_row5:
         - transfer-learning
         - PyTorch
 ---
-## Project
-#### Projects from 2021
+## Projects from 2021
 {% include feature_row id="feature_row21-3" type="left" %}
 <a name="Shale gas production prediction and decision-making"></a>
 {% include feature_row id="feature_row21-2" type="left" %}
@@ -193,7 +194,7 @@ feature_row5:
 {% include feature_row id="feature_row21-1" type="left" %}
 <a name="Publish literature book in 6 weeks with egowriting"></a>
 
-#### Projects from 2020
+## Projects from 2020
 {% include feature_row id="feature_row20-2" type="left" %}
 <a name="Cat arthritis predictive model development"></a>
 {% include feature_row id="feature_row20-1" type="left" %}

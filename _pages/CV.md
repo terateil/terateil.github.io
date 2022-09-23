@@ -11,7 +11,7 @@ toc_label: "Contents"
 ---
 
 <a href="notion" class="btn--primary"></a>
-[<i class='fas fa-search'></i> Notion (KR)](https://5eonukkim.notion.site/){: .btn .btn--primary }
+[<i class='fas fa-cube'></i> Notion (KR)](https://5eonukkim.notion.site/){: .btn .btn--primary }
 <a href="CV" class="btn--primary"></a>
 [<i class='fas fa-download'></i> Full CV (EN)](../_pages/SEONUK_CV_20220801_A4.pdf){: .btn .btn--primary }
 <a href="Resume" class="btn--primary"></a>
@@ -51,7 +51,7 @@ __Literature__
 Awards
 ======
 {% capture notice %}
-***Student Paper Honorable Mention Award<sup>[[1]](DC1)</sup>***, Korea Society of Design Studies `2022`\
+***Student Paper Honorable Mention Award <sup>[[1]](#DC1)</sup>***, Korea Society of Design Studies `2022`\
 **Excellence Prize, IEEE Quiz Contest KOREA,**, IEEE, KITIS `2022`\
 **Silver Prize, UNIST-POSTECH-KAIST Data Science Competition**, UNIST, POSTECH, KAIST, SK Innovation, kakao enterprise, Korea National Oil Corporation `2021`
  [[article](http://news.unist.ac.kr/successful-completion-of-2021-unist-postech-kaist-data-science-competition/)]\
