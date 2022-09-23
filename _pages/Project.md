@@ -5,87 +5,78 @@ permalink: /project/
 author_profile: true
 classes: wide
 
-feature_row0-1:
-  - image_path: # assets/gif/gifify.gif
-    alt: "AWS app demo"
-    title: "Gifify App"
-    text: "I developed a Gifify app where a user can upload a video and get it processed into a gif. This is a Flask app deployed to AWS EC2 instance. The user login data is saved into DynamoDB, while the users' uploaded videos and resulting gifs are stored on S3 buckets. The video processing is implemented through a Lambda function (deployed via Docker to ECS)."
+feature_row20-1:
+  - image_path: assets/project/2020CPU.gif
+    alt: "Refrigerator PT"
+    title: "Smart refrigerator for health management"
+    text: "Participated as a team leader in the __2020 Campus Patent Universiade__. Suggested a smart refrigerator with a platform service that communicates with trainers and competes with users for health scores to Samsung Electronics. After passing the report, participated in a presentation session as a team leader and speech. Received the __Samsung Electronics Vice Chairman Award__ as the Excellence Prize."
+    tags:
+        - Digital healthcare
+        - OS matrix
+        - Persona
+        - PEST
+        - 3C
+        - SWOT
+        - 4P
+        - Lean canvas
+        - Patent
+        - KIPRIS
+
+feature_row20-2:
+  - image_path: assets/project/catresearch.png
+    alt: "Cute Cat"
+    title: "Cat arthritis predictive model development"
+    text: "Selected written proposal for __Artifical Intelligence Graduate School Creative Autonomous Research Program__, predictive model development for the probability of developing arthritis based on cat position, acceleration, and angular velocity data as a control experiment. 9-axis IMU sensor [MetaMotionS+](https://mbientlab.com/store/metamotions-p/) selection and experiment manual were written. preprocessing time-series data in GB units after data collection"
     tags:
         - Python
-        - Lambda
-        - S3
-        - EC2
-        - DynamoDB
-        - Flask
-        - ECS
-        - Docker
+        - IMU sensor
+        - Predictive model
+        - Cat arthritis
+        - Time-series data
+        - Behavior data
 
-feature_row0-2:
-  - image_path: assets/gif/wumpus.gif
-    alt: "Java game demo"
-    title: "Hunt the Wumpus Game"
-    text: "Java-based implementation of the '73 classics [\"Hunt the Wumpus\"](https://en.wikipedia.org/wiki/Hunt_the_Wumpus), using MVC design pattern and object oriented programming (OOP). The game can be played in both GUI and text-based modes."
-    url: "https://github.com/k-bosko/HWT"
-    btn_label: "Java code"
-    btn_class: "btn--primary"
-    url2: "https://github.com/k-bosko/HWT"
-    btn_label2: "UML Diagram"
-    btn_class: "btn--primary"
+feature_row21-1:
+  - image_path: assets/project/2021CPU.gif
+    alt: "Safety PT"
+    title: "Industrial accident prevention using intelligent surveillance"
+    text: "Participated as a team leader in the __2021 Campus Patent Universiade__. Establishment of a training dataset for risk behavior and accident recognition models and a solution for preventing and coping with industrial accidents to ETRI. Market research focusing on industrial accident reports and laws and government policies that analyze the accident rate and death rate. Automatic object and motion information extraction and labeling system design using images. Patent analysis and avoidance design. Suggested areas of expected gross profit based on expected growth rate, social contribution, and expandable business areas. Expert advisory services such as major professors, corporate, institutional and factory officials, and patent attorneys. After accepted the report, participated in a presentation session as a team leader and speech."
     tags:
-        - Java
-        - MVC
-        - OOP
-        - UML
+        - Intelligent surveillance
+        - Industrial accident
+        - Market research
+        - Product research
+        - OS matrix
+        - Persona
+        - PESTEL
+        - 3C/FAW
+        - SWOP
+        - 4P
+        - Lean canvas
+        - Patent
+        - WIPSON
+        - Technology transfer
 
-feature_row0-3:
-  - image_path: assets/gif/ghostkitchen.gif
-    alt: "Node.js app demo"
-    title: "GhostKitchen App"
-    text: "In a series of GhostKitchen projects, I teamed up with another student to develop a Node.js app that supports CRUD operations for processing new orders for a restaurant chain. The app has 3 versions that differ in database used for backend - one version is based on SQLite, another on MongoDB and yet another on Redis."
-    url: "https://github.com/k-bosko/GhostKitchen"
-    btn_label: "SQL code"
-    btn_class: "btn--primary"
-    url2: "https://github.com/k-bosko/GhostKitchen-II"
-    btn_label2: "MongoDB code"
-    btn_class: "btn--primary"
-    url3: "https://github.com/k-bosko/GhostKitchen-III"
-    btn_label3: "Redis code"
-    btn_class: "btn--primary"
+feature_row21-2:
+  - image_path: assets/project/bookego.jpg
+    alt: "egowriting"
+    title: "Published a [book](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=272558882) after professional literary writers coached 9 socioculturally diverse people for 6 weeks. I wrote a short story titled 'Wind and Blooms', the story of a boy who has been wound by his family and society growing up."
     tags:
-        - Node.js
-        - SQL
-        - MongoDB
-        - Redis
-        - Bootstrap
+        - Literature
+        - Short story
+        - Publish
 
-feature_row0-4:
-  - image_path: assets/gif/best_companies.gif
-    alt: "Forbes 500 best companies for work"
-    title: "Best Companies for Work App"
-    text: "In this project, I teamed up with another student to develop a Python app to explore Forbes 500 best companies to work for. I was responsible for web scraping, data cleaning, creating a SQLite database and data visualizations."
-    url: "https://github.com/k-bosko/Best_Companies_to_Work_For"
-    btn_label: "Code"
-    btn_class: "btn--primary"
+feature_row21-3:
+  - image_path: assets/project/2021UKP.gif
+    alt: "1th data science"
+    title: "Shale gas production prediction and decision-making"
+    text: "Participated as a team JORDY leader in the __1st UNIST-POSTECH-KAIST Data Science Competition__. Predicting production time series data with AutoML library PyCaret. 0-1 Integer Programming to make a production well purchase decision. Retention of missing values and comparison of mean, median, and mode treatment and consideration of data uniqueness. Prevention of overfitting using k-fold Cross Validation. Suggest to Korea National Oil Corporation to add Reynolds number as a feature related to shale gas. Since selected for the top 12 teams, participated in a presentation session as a team leader. Received the __Silver Prize__ as __4th place__"
     tags:
         - Python
-        - SQLite
-        - OOP
-
-feature_row1-0:
-  - image_path: assets/images/portfolio/system-failure-detection-poster.png
-    alt: "Detecting System Failure poster"
-    title: "Signal Processing + Convolutional Neural Networks on Time Series data"
-    text: "I participated in [experiential learning project](https://experiential-learning.northeastern.edu/) at Northeastern University in cooperation with [Lightning eMotors](https://lightningemotors.com/), an automotive research and manufacturing company that develops zero-emission all-electric powertrains. The company provided a dataset with over 9 million unique observations for 19 different variables across different vehicle units. Using this dataset, we developed a method to predict system failure with Signal Processing and Machine Learning techniques (CNN). The predictive model yielded outstanding results (0.95 accuracy score on test data) and can be utilized commercially as an early detection mechanism for system failure. "
-    url: "../assets/docs/reports/kbosko-system-failure-detection-poster.pdf"
-    btn_label: "Poster"
-    btn_class: "btn--primary"
-    url2: "../assets/docs/reports/kbosko-system-failure-detection-presentation.pdf"
-    btn_label2: "Presentation"
-    btn_class: "btn--primary"
-    tags:
-        - Time Series
-        - Signal Processing
-        - Convolutional Neural Network
+        - PyCaret
+        - Seaborn
+        - Matplotlib
+        - Pandas
+        - NumPy
 
 feature_row1-1:
   - image_path: assets/images/posts/starbucks-cluster-conversion-rates.png
@@ -193,22 +184,21 @@ feature_row5:
         - transfer-learning
         - PyTorch
 ---
+## Project
+#### Projects from 2021
+{% include feature_row id="feature_row21-3" type="left" %}
+<a name="Shale gas production prediction and decision-making"></a>
+{% include feature_row id="feature_row21-2" type="left" %}
+<a name="Industrial accident prevention using intelligent surveillance"></a>
+{% include feature_row id="feature_row21-1" type="left" %}
+<a name="Publish literature book in 6 weeks with egowriting"></a>
 
-## Projects in Computer Science
-#### Upcomming
-<!-- {% include feature_row id="feature_row0-1" type="left" %}
-<a name="Gifify AWS app"></a>
-{% include feature_row id="feature_row0-2" type="left" %}
-<a name="HWT game"></a>
-{% include feature_row id="feature_row0-3" type="left" %}
-<a name="GhostKitchen Node.js app"></a>
-{% include feature_row id="feature_row0-4" type="left" %}
-<a name="Python app"></a>
-<a name="NLP Flask app"></a>
-{% include feature_row id="feature_row2" type="left" %} -->
+#### Projects from 2020
+{% include feature_row id="feature_row20-2" type="left" %}
+<a name="Cat arthritis predictive model development"></a>
+{% include feature_row id="feature_row20-1" type="left" %}
+<a name="Smart refrigerator for health management"></a>
 
-## Projects in Design
-#### Upcomming
 <!-- &nbsp;
 <a name="Signal-Processing">
 {% include feature_row id="feature_row1-0" type="left" %}

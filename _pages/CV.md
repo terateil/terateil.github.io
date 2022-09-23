@@ -11,7 +11,7 @@ toc_label: "Contents"
 ---
 
 <a href="notion" class="btn--primary"></a>
-[<i class='fas fa-download'></i> Notion (KR)](https://5eonukkim.notion.site/){: .btn .btn--primary }
+[<i class='fas fa-search'></i> Notion (KR)](https://5eonukkim.notion.site/){: .btn .btn--primary }
 <a href="CV" class="btn--primary"></a>
 [<i class='fas fa-download'></i> Full CV (EN)](../_pages/SEONUK_CV_20220801_A4.pdf){: .btn .btn--primary }
 <a href="Resume" class="btn--primary"></a>
