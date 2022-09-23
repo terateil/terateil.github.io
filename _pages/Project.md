@@ -40,7 +40,7 @@ feature_row20-2:
 feature_row21-1:
   - image_path: assets/project/2021CPU.gif
     alt: "Safety PT"
-    title: "Industrial accident prevention using intelligent surveillance"
+    title: "Industrial accident prevention using intelligent surveillance system"
     text: "Participated as a team leader in the __2021 Campus Patent Universiade__. Establishment of a training dataset for risk behavior and accident recognition models and a solution for preventing and coping with industrial accidents to ETRI. Market research focusing on industrial accident reports and laws and government policies that analyze the accident rate and death rate. Automatic object and motion information extraction and labeling system design using images. Patent analysis and avoidance design. Suggested areas of expected gross profit based on expected growth rate, social contribution, and expandable business areas. Expert advisory services such as major professors, corporate, institutional and factory officials, and patent attorneys. After accepted the report, participated in a presentation session as a team leader and speech."
     tags:
         - Intelligent surveillance
@@ -71,7 +71,7 @@ feature_row21-2:
 feature_row21-3:
   - image_path: assets/project/2021UKP.gif
     alt: "1th data science"
-    title: "Shale gas production prediction and decision-making"
+    title: "Shale gas production trend forecast and purchase decision making"
     text: "Participated as a team JORDY leader in the __1st UNIST-POSTECH-KAIST Data Science Competition__. Predicting production time series data with AutoML library PyCaret. 0-1 Integer Programming to make a production well purchase decision. Retention of missing values and comparison of mean, median, and mode treatment and consideration of data uniqueness. Prevention of overfitting using k-fold Cross Validation. Suggest to Korea National Oil Corporation to add Reynolds number as a feature related to shale gas. Since selected for the top 12 teams, participated in a presentation session as a team leader. Received the __Silver Prize__ as __4th place__"
     tags:
         - Python
@@ -80,6 +80,7 @@ feature_row21-3:
         - Matplotlib
         - Pandas
         - NumPy
+        - Ensemble models
 
 feature_row1-1:
   - image_path: assets/images/posts/starbucks-cluster-conversion-rates.png
