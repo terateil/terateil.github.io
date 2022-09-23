@@ -23,7 +23,7 @@ Education
 __Ulsan National Institute of Science and Technology (UNIST)__ `Mar. 2020 - Present`
   * B.S. Candidate in *[Industrial Engineering](https://ie.unist.ac.kr/eng/)* and *[Design](https://design.unist.ac.kr/)*
 {% endcapture %}
-<div class="notice--primary">{{ notice | markdownify }}</div>
+<div class="notice--primary" style="font: 0.85em;">{{ notice | markdownify }}</div>
 
 Research Experience
 ======
@@ -34,7 +34,7 @@ __Expressive Computing Lab__, UNIST `Dec. 2021 - Present`
 __Service Engineering & Knowledge Discovery Lab__, UNIST `Nov. 2020 - Dec. 2021`
   * __Researcher of Artifical Intelligence Graduate School Creative Autonomous Research Program__, supervised by [*Chiehyeon Lim*](https://research.unist.ac.kr/post-research/%ec%9e%84%ec%b9%98%ed%98%84_service-engineering-knowledge-discovery/?eng)<br><br>
 {% endcapture %}
-<div class="notice--primary">{{ notice | markdownify }}</div>
+<div class="notice--primary" style="font: 0.85em;">{{ notice | markdownify }}</div>
 
 Publication
 ======
@@ -46,7 +46,7 @@ __Domestic Conference__
 __Literature__
   1. **김선욱**. (2021). 흔들리며 피다. **별이 탄생하는 순간** (pp. 133-166). 글ego. [[book](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=272558882)]
 {% endcapture %}
-<div class="notice--primary">{{ notice | markdownify }}</div>
+<div class="notice--primary" style="font: 0.85em;">{{ notice | markdownify }}</div>
 
 Awards
 ======
@@ -59,7 +59,7 @@ Awards
 **Special Prize, Uni-CODE: UNIST Algorithm Programming Contest**, UNIST CSE Department `2020`\
 **Excellence Prize, Campus Patent Universiade**, Korean Intellectual Property Office, Samsung Electronics `2020` [[article](http://news.unist.ac.kr/a-team-of-unist-students-honored-at-the-2020-campus-patent-universiade-competition/)]
 {% endcapture %}
-<div class="notice--primary">{{ notice | markdownify }}</div>
+<div class="notice--primary" style="font: 0.85em;">{{ notice | markdownify }}</div>
 
 Extra-Curricular
 ======
@@ -79,4 +79,4 @@ __Ulju The Dream Campus Mentoring Program__ `Sep. 2021 - Present`
   * __Head Mentor, HeXA__, "Basic Python and Algorithm Programming", 2022
   * __Head Mentor, UNITS__, "Let's Build Robot Arm using Arduino and 3D Printer", 2021
 {% endcapture %}
-<div class="notice--primary">{{ notice | markdownify }}</div>
+<div class="notice--primary" style="font: 0.85em;">{{ notice | markdownify }}</div>

@@ -38,7 +38,7 @@
 
         <div class="archive__item-body">
           {% if f.title %}
-            <div class="archive__item-title" style="font: bold 1em;">{{ f.title }}</div>
+            <h2 class="archive__item-title" style="font: 1.1em;">{{ f.title }}</div>
           {% endif %}
 
           {% if f.excerpt %}
