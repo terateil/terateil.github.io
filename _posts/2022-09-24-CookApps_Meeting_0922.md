@@ -74,9 +74,9 @@ HeXA 내에서 게임개발에 관심이 있는 회원들이 여러 프로젝트
 포트폴리오가 자유형식이라 어떤 형식으로 만들어야할지 감이 잘 안 잡히기도 하는데, Github을 꾸미는 것 이외의 정리 또는 눈에 띄고 싶은 것이 있다면 notion이나 PDF로 자료를 만들어보는 것도 나쁘지 않을 것 같다는 생각이 듭니다. 아래가 좋은 예시들 중 하나가 아닐까 싶어 자료로 제시합니다.
 
 {% capture notice %}
-- **드림코딩의 Github Readme 꾸미기:** https://youtu.be/w9DfC2BHGPA
-- **김현준(H43RO)님의 Notion:** https://haero.notion.site/haero/H43RO-7151be77ee0c4ca2b7e073a9156b3b2e
-- **재료공학자 지망생 김민재 님의 포트폴리오:** https://mj3259.github.io/assets/pdf/portfolio.pdf
+- **드림코딩의 Github Readme 꾸미기:** [https://youtu.be/w9DfC2BHGPA](https://youtu.be/w9DfC2BHGPA)
+- **김현준(H43RO)님의 Notion:** [https://haero.notion.site/haero/H43RO-7151be77ee0c4ca2b7e073a9156b3b2e](https://haero.notion.site/haero/H43RO-7151be77ee0c4ca2b7e073a9156b3b2e)
+- **재료공학자 지망생 김민재 님의 포트폴리오:** [https://mj3259.github.io/assets/pdf/portfolio.pdf](https://mj3259.github.io/assets/pdf/portfolio.pdf)
 {% endcapture %}
 <div class="notice--warning" style="font: 0.85em;">{{ notice | markdownify }}</div>
 
@@ -96,12 +96,14 @@ HeXA 내에서 게임개발에 관심이 있는 회원들이 여러 프로젝트
 미팅 중에 회원들과 함께 회사 입장에서 여러 민감한 부분도 많이 물어봤는데, CookApps가 아직 부족한 부분에 대해서도 친절히 설명해주시고 극복하기 위해 노력하고 있는 점을 소개해주셔서 개인적으로 굉장히 인상 깊었던 것 같습니다.
 
 __운영__
+
 최근에 SNS를 불태우고 있는 **카카오게임즈 우마무스메 간담회** 이야기를 시작으로 **게임 운영**이나 **유저 피드백** 측면에 대해 CookApps는 어떻게 하고 있는지 여러 질문을 했었습니다. 채용담당자분께서 이는 CookApps에서도 부족하다고 생각되는 부분이라고 생각하신다고 이야기를 시작하시며 아무래도 소규모로 많은 게임이 운영하다보니 유저 피드백을 적극적으로 실시간으로 반영하는 것이 매우 어렵다고 이야기하셨습니다. 최근 개발한 게임에서도 이로 인한 문제가 종종 발생했고, 이를 보완하기 위해서 **다양한 소통 방식을 계획**하고 있다고도 하셨습니다. 
 
-뒤에서 적을 내용이기도 하지만, 실제로 모바일 게임의 수명이 길지 않고, 많은 게임을 만들어본 데이터를 바탕으로 게임을 성공시키려는 전략을 진행하고 있다보니 더 힘든 면도 있는 것 같습니다. 다만, 이를 극복하기 위해 다양한 고민을 하고 있는 점을 확인하며, 정말로 좋은 게임을 만들기 위해서 다양한 방향으로 고민하고 있다는 것을 느낄 수 있어서 인상 깊었습니다.
+뒤에서 적을 내용이기도 하지만, 실제로 모바일 게임의 수명이 길지 않고, 많은 게임을 만들어본 데이터를 바탕으로 게임을 성공시키려는 전략을 진행하고 있다보니 더 힘든 면도 있는 것 같습니다. 다만, 이를 극복하기 위해 다양한 고민을 하고 있는 점을 확인하며, 정말로 좋은 게임을 만들기 위해서 다양한 방향으로 고민하고 있다는 것을 느낄 수 있어서 인상 깊었습니다.<br>
 
 __QA__
-현재 따로 QA 전문가가 있어 품질을 체계적으로 관리하기 보다는 스튜디오 관계자분들이 직접 플레이해보고 자체적으로 QA가 이루어지고 있다고 이야기해주셨습니다. 다만, 온라인으로 연동되어 진행되는 게임들은 **유저의 유치와 유지**에 게임의 수명이 걸려있다보니 BM(Business Management)에 대한 연구도 계속 진행하고 있고, **유저 유치 경험과 관련된 Senior를 지속적으로 뽑아 이러한 문제를 해결**하려고 하신다고 설명해주셨습니다.
+
+현재 따로 QA 전문가가 있어 품질을 체계적으로 관리하기 보다는 스튜디오 관계자분들이 직접 플레이해보고 자체적으로 QA가 이루어지고 있다고 이야기해주셨습니다. 다만, 온라인으로 연동되어 진행되는 게임들은 **유저의 유치와 유지**에 게임의 수명이 걸려있다보니 BM(Business Management)에 대한 연구도 계속 진행하고 있고, **유저 유치 경험과 관련된 Senior를 지속적으로 뽑아 이러한 문제를 해결**하려고 하신다고 설명해주셨습니다.<br>
 
 __수익, 그리고 혁신과 독창성__
 
@@ -130,11 +132,11 @@ CookApps가 최종적으로 추구하는 게임은 **수익을 잘 내는 게임
 
 소통과 지원의 첫 단추였던 D2 Campus Partners 재선정에 실패하고, 동아리 시스템 개편에는 여러 골머리를 앓고 있는 등 앞으로도 많이 실패를 겪을 것이라고 생각합니다. 그러나 프로젝트 시스템과 앱/웹, 게임, 해킹으로 분야를 확립하고, 인수인계를 위한 의사결정 양식 및 템플릿 제작에 대한 기초공사를 시작하는 등 작은 성공도 거두고 있습니다. 이번 CookApps 미팅은 감사하게도 회사 측의 제안으로 진행하게 되었지만, 앞으로는 선제적으로 그리고 적극적으로 움직이고, 앞으로도 잘 할 수 있도록 후대 간부진에게 관련 경험을 쌓게하여 개발의 즐거움과 동시에 부가가치를 지속적으로 창출할 수 있는 시스템을 만들어주는 것이 중요할 것입니다. 
 
-아마, 졸업할 때까지 HeXA와 엮여있을 가능성이 높은지라 열심히 해봐야겠네요.
+아마, 졸업할 때까지 HeXA와 엮여있을 가능성이 높은지라 열심히 해봐야겠네요. \
 소통은 언제든지 환영입니다 :) 아래 메일로 언제든지 연락주세요 :D
 
 {% capture notice %}
-**HeXA 대표 메일:** hexa.unist@gmail.com
+**HeXA 대표 메일:** hexa.unist@gmail.com \
 **개인 메일:** d02reams@unist.ac.kr
 {% endcapture %}
 <div class="notice--warning" style="font: 0.85em;">{{ notice | markdownify }}</div>
@@ -145,7 +147,7 @@ CookApps가 최종적으로 추구하는 게임은 **수익을 잘 내는 게임
 먼저, 좋은 제안해주신 CookApps 채용담당자분들과 함께 미팅에 참여하고 이 글을 쓰는데 많은 도움주신 HeXA 회원분들께 감사의 말씀을 드립니다.
 
 **Special Thanks to. CookApps, 이서윤, 오주한, 임재민, 배상현, 조은호**
-- CookApps 홈페이지: https://www.cookapps.com/
-- CookApps 채용 사이트: https://www.cookapps.com/careers/list
+- **CookApps 홈페이지:** [https://www.cookapps.com/](https://www.cookapps.com/)
+- **CookApps 채용 사이트:** [https://www.cookapps.com/careers/list](https://www.cookapps.com/careers/list)
 {% endcapture %}
 <div class="notice--warning" style="font: 0.85em;">{{ notice | markdownify }}</div>
