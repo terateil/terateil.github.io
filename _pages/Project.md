@@ -51,7 +51,7 @@ feature_row21-1:
         - Persona
         - PESTEL
         - 3C/FAW
-        - SWOP
+        - SWOT
         - 4P
         - Lean canvas
         - Patent
