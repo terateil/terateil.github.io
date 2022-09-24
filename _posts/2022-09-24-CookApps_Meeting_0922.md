@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "Contents"
 excerpt: 9월 22일에 진행한 CookApps(판교게임사)와 HeXA 회원 미팅
-date: 2022-09-23
+date: 2022-09-24
 tags:
   - languages:Korean
   - tags:Game
