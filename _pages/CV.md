@@ -51,8 +51,8 @@ __Literature__
 Awards
 ======
 {% capture notice %}
-***Student Paper Honorable Mention Award <sup>[[1]](#DC1)</sup>***, Korea Society of Design Studies `2022`\
-**Excellence Prize, IEEE Quiz Contest KOREA,**, IEEE, KITIS `2022`\
+***Student Paper Honorable Mention Award***__<sup>[[1]](#DC1)</sup>__, Korea Society of Design Studies `2022`\
+**Excellence Prize, IEEE Quiz Contest KOREA**, IEEE, KITIS `2022`\
 **Silver Prize, UNIST-POSTECH-KAIST Data Science Competition**, SK Innovation, kakao enterprise, Korea National Oil Corporation `2021`
  [[article](http://news.unist.ac.kr/successful-completion-of-2021-unist-postech-kaist-data-science-competition/)]\
 **Gold Prize, Lee Soo Hyun 20th Anniversary Book Review Contest**, Consulate‑General of Japan in Busan `2021` [[article:2001](https://www.donga.com/en/article/all/20011231/210363/1)] [[article:2021](https://www.donga.com/en/article/all/20210125/2393536/1)]\
