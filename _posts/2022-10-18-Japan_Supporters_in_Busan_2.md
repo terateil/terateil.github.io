@@ -4,7 +4,7 @@ header:
 toc: true
 toc_sticky: true
 toc_label: "Contents"
-excerpt: 주부산일본국총영사관 서포터즈 7기 - 2편 제17회 부산세계시민축제
+excerpt: 주부산일본국총영사관 서포터즈 7기 - 2편 부산세계시민축제
 date: 2022-10-18
 tags:
   - languages:Korean
