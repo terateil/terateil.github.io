@@ -6,4 +6,4 @@ author_profile: true
 classes: wide
 ---
 
-Organizing. Please visit my github to see the projets.
+Organizing. Please visit my github to see the projects.
