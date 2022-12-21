@@ -4,8 +4,8 @@ header:
 toc: true
 toc_sticky: true
 toc_label: "Contents"
-excerpt: 
-date: 2022-12-22
+excerpt: test post
+date: 2022-08-17
 tags:
   - languages:Korean
 ---
