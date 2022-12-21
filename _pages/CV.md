@@ -10,5 +10,7 @@ toc: true
 toc_label: "Contents"
 ---
 
+You can get full CV from this link.<br>
+
 <a href="CV" class="btn--primary"></a>
 [<i class='fas fa-download'></i> Full CV (EN)](../_pages/Chanbin Lee_CV_221222.pdf){: .btn .btn--primary }
