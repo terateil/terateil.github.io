@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Work & Life"
+title                    : "Archive"
 title_separator          : "-"
-subtitle                 : "Anythin" # site tagline that appears below site title in masthead
+subtitle                 : "Do something." # site tagline that appears below site title in masthead
 name                     : "Chanbin Lee"
 description              : "Hi, this is Chanbin's blogspot."
 url                      : "https://terateil.github.io"
