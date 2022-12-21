@@ -20,7 +20,7 @@ title                    : "Records"
 title_separator          : "-"
 subtitle                 : "Do something." # site tagline that appears below site title in masthead
 name                     : "Chanbin Lee"
-description              : "Hi, this is Chanbin's blog."
+description              : "Chanbin's blog."
 url                      : "https://terateil.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
