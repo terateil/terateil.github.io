@@ -1,12 +1,12 @@
 ---
 layout: archive
 permalink: /
-title: print("Hello, Seonuk's AI + Comics World")
+title: Chanbin's Blog
 author_profile: true
 classes: wide
-date: 2022-07-29
+date: 2022-12-22
 ---
-I'm an undergraduate student majoring in *[Industrial Engineering](https://ie.unist.ac.kr/eng/)* and *[Design](https://design.unist.ac.kr/)* at **[Ulsan National Institute of Science and Technology (UNIST)](https://www.unist.ac.kr/)** and research intern at [Expressive Computing Lab, UNIST](https://www.klee141.com/). I love **manga & webtoon** and study **AI+X based Creative Support Tools (CSTs)**.
+I'm an undergraduate student in UNIST. I'm going to major Computer Science and Engineering(CSE) from next year. Currently I'm research intern at MVLLab, UNIST. I'm interested in conversational AIs.
 
 <figure style="width: 80%" class="align-center">
   <img src="/assets/images/about20220713.jpg" alt="">
