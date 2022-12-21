@@ -18,10 +18,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Work & Life"
 title_separator          : "-"
-subtitle                 : "Manga, Webtoon, AI" # site tagline that appears below site title in masthead
-name                     : "Seonuk Kim"
-description              : "Welcome to Seonuk's Blog!"
-url                      : "https://5eonukkim.github.io"
+subtitle                 : "Anythin" # site tagline that appears below site title in masthead
+name                     : "Chanbin Lee"
+description              : "Hi, this is Chanbin's blogspot."
+url                      : "https://terateil.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -104,52 +104,23 @@ analytics:
 
 # Site Author
 author:
-  name             : "Seonuk Kim"
+  name             : "Chanbin Lee"
   avatar           : "/assets/photo/photo20220713.jpg"
-  bio              : "Undergraduate Student at UNIST"
+  bio              : "UNIST, undergraduate student"
   location         : "Ulsan, Korea"
-  email            : "d02reams@unist.ac.kr"
+  email            : "chblee@unist.ac.kr"
   links:
-    - label: "Last Updated: 2022-10-18"
-      icon: "fas fa-fw fa-calendar-check"
-      url: " "
-    - label: "Notion"
-      icon: "fas fa-fw fa-cube"
-      url: "https://5eonukkim.notion.site"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/5eonukkim/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/terateil/"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/terateil/"
+
 
 
 # Reading Files
